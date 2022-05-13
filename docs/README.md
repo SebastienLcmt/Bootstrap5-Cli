@@ -1,4 +1,11 @@
-# Installation de bootstrap
+# Bootstrap 5 project using CLI
+
+A high-class japanese restaurant
+
+[Live Demo](https://sebastienlcmt.github.io/Bootstrap5-Cli/)
+
+
+## Installation de bootstrap
 
 `npm init`
 

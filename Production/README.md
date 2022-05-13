@@ -16,6 +16,7 @@ Et on peut lancer la commande `npm run sass`
 
 ```npm i purgecss```
 
+Pour chaque fichier html :
 ```json
 "purgecss": "purgecss -css styles/raw/style.css --content index.html script/*.js -o styles/cleaned/home.css"
 ```
